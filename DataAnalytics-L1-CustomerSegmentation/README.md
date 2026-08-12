@@ -1,8 +1,11 @@
 # Customer Segmentation Analysis using RFM and K-Means
 
 **Name:** Aparaajetha Suvarnam
+
 **Internship:** Oasis Infobyte (OIBSIP)
+
 **Track:** Data Analytics
+
 **Task:** Task 2 – Customer Segmentation Analysis
 
 ---
